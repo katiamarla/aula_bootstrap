@@ -1,0 +1,23 @@
+boby{
+    font: 20px ariel, sans-serif;
+}
+
+.navbar {
+    background-color:#33c213;
+}
+.quem-somos{
+    background-color: #fce27f;
+    color: brown;
+
+}
+.margin {
+      padding-bottom: 50px;
+      padding-top: 10px;
+}
+.parceiros{
+    background-color:#fc9a7f;
+    color: darkblue;
+}
+.bg-footer {
+    background-color:  #afa4a1 ;
+}
